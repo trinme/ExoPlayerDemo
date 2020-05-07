@@ -7,19 +7,6 @@ supported by Android’s MediaPlayer API, including DASH and SmoothStreaming
 adaptive playbacks. Unlike the MediaPlayer API, ExoPlayer is easy to customize
 and extend, and can be updated through Play Store application updates.
 
-## Documentation ##
-
-* The [developer guide][] provides a wealth of information.
-* The [class reference][] documents ExoPlayer classes.
-* The [release notes][] document the major changes in each release.
-* Follow our [developer blog][] to keep up to date with the latest ExoPlayer
-  developments!
-
-[developer guide]: https://exoplayer.dev/guide.html
-[class reference]: https://exoplayer.dev/doc/reference
-[release notes]: https://github.com/google/ExoPlayer/blob/release-v2/RELEASENOTES.md
-[developer blog]: https://medium.com/google-exoplayer
-
 ## Using ExoPlayer ##
 
 ExoPlayer modules can be obtained from JCenter. It's also possible to clone the
